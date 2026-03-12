@@ -1,0 +1,53 @@
+data:
+  train_bio_path: /home/superuser/dev/NER/ner_dataset_builder/output/train.bio
+model:
+  pretrained_model_path: /home/superuser/LLM_Model/chinese-macbert-large
+output:
+  root_dir: /home/superuser/dev/NER/ner_macbert_trainer/output
+  checkpoint_dir: /home/superuser/dev/NER/ner_macbert_trainer/output/checkpoints
+  saved_model_dir: /home/superuser/dev/NER/ner_macbert_trainer/output/saved_models
+  onnx_dir: /home/superuser/dev/NER/ner_macbert_trainer/output/onnx_models
+train:
+  learning_rate: 2.0e-05
+  per_device_train_batch_size: 16
+  per_device_eval_batch_size: 16
+  num_train_epochs: 5
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  logging_steps: 20
+  save_total_limit: 2
+runtime:
+  max_length: 256
+  train_window_stride: 64
+  infer_window_stride: 64
+  split_by_source_file: true
+  strip_table_blocks: true
+  train_positive_upsample: 1
+  train_texture_upsample: 3
+  texture_loss_boost: 1.0
+  span_constraints:
+    block:
+      min_len: 2
+      max_len: 30
+    well_name:
+      min_len: 3
+      max_len: 30
+    lithology_texture:
+      min_len: 1
+      max_len: 8
+  texture_lexicon:
+  - 泥质
+  - 含气
+  - 砂质
+  - 半棱角状
+  - 泥晶
+  - 次圆状
+  - 块状
+  - 贝壳状
+  - 致密
+  - 细粒
+  - 中粒
+  - 粗粒
+  - 碳质
+  seed: 42
+  fp16: true

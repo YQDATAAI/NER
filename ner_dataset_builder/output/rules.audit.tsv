@@ -1,0 +1,65 @@
+sentence_id	source_file	page_number	block_index	entity_type	entity_text	reason
+SN0006-01 井录井报告.md__p2	SN0006-01 井录井报告.md	2	1	well_name	中国石油天然气股份有限公司	not_match_include_patterns
+SN0006-01 井录井报告.md__p5	SN0006-01 井录井报告.md	5	4	well_name	本井	not_match_include_patterns
+SN0006-01 井录井报告.md__p6	SN0006-01 井录井报告.md	6	5	well_name	录井报告	not_match_include_patterns
+SN0006-01 井录井报告.md__p9	SN0006-01 井录井报告.md	9	8	well_name	本井	not_match_include_patterns
+SN0006-01 井录井报告.md__p27	SN0006-01 井录井报告.md	27	26	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-01 井录井报告.md__p29	SN0006-01 井录井报告.md	29	28	well_name	附表 3	not_match_include_patterns
+SN0006-01 井录井报告.md__p34	SN0006-01 井录井报告.md	34	33	well_name	附表 5	not_match_include_patterns
+SN0006-01 井录井报告.md__p36	SN0006-01 井录井报告.md	36	35	well_name	附表 6	not_match_include_patterns
+SN0006-02 井录井报告.md__p4	SN0006-02 井录井报告.md	4	3	well_name	SN0006-02井	not_match_include_patterns
+SN0006-02 井录井报告.md__p28	SN0006-02 井录井报告.md	28	27	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-02 井录井报告.md__p30	SN0006-02 井录井报告.md	30	29	well_name	附表 3	not_match_include_patterns
+SN0006-02 井录井报告.md__p32	SN0006-02 井录井报告.md	32	31	well_name	附表 3	not_match_include_patterns
+SN0006-02 井录井报告.md__p36	SN0006-02 井录井报告.md	36	35	well_name	附表 5	not_match_include_patterns
+SN0006-02 井录井报告.md__p38	SN0006-02 井录井报告.md	38	37	well_name	附表 6	not_match_include_patterns
+SN0006-02i 井录井报告.md__p1	SN0006-02i 井录井报告.md	1	0	well_name	SN0006-02i	not_match_include_patterns
+SN0006-02i 井录井报告.md__p3	SN0006-02i 井录井报告.md	3	2	well_name	SN0006-02i	not_match_include_patterns
+SN0006-02i 井录井报告.md__p4	SN0006-02i 井录井报告.md	4	3	well_name	SN0006-02i	not_match_include_patterns
+SN0006-02i 井录井报告.md__p6	SN0006-02i 井录井报告.md	6	5	well_name	本井	not_match_include_patterns
+SN0006-02i 井录井报告.md__p19	SN0006-02i 井录井报告.md	19	18	well_name	本井	not_match_include_patterns
+SN0006-03 井录井报告.md__p2	SN0006-03 井录井报告.md	2	1	well_name	中国石油天然气股份有限公司	not_match_include_patterns
+SN0006-03 井录井报告.md__p9	SN0006-03 井录井报告.md	9	8	well_name	本井	not_match_include_patterns
+SN0006-03 井录井报告.md__p27	SN0006-03 井录井报告.md	27	26	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-03 井录井报告.md__p29	SN0006-03 井录井报告.md	29	28	well_name	附表 2. 录井资料统计表	not_match_include_patterns
+SN0006-03 井录井报告.md__p31	SN0006-03 井录井报告.md	31	30	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-03 井录井报告.md__p33	SN0006-03 井录井报告.md	33	32	well_name	附表 3	not_match_include_patterns
+SN0006-03 井录井报告.md__p37	SN0006-03 井录井报告.md	37	36	well_name	附表 5	not_match_include_patterns
+SN0006-03 井录井报告.md__p39	SN0006-03 井录井报告.md	39	38	well_name	附表 6	not_match_include_patterns
+SN0006-03i 井录井报告.md__p1	SN0006-03i 井录井报告.md	1	0	well_name	SN0006-03i	not_match_include_patterns
+SN0006-03i 井录井报告.md__p4	SN0006-03i 井录井报告.md	4	3	well_name	SN0006-03i	not_match_include_patterns
+SN0006-03i 井录井报告.md__p6	SN0006-03i 井录井报告.md	6	5	well_name	录井报告附表	not_match_include_patterns
+SN0006-03i 井录井报告.md__p7	SN0006-03i 井录井报告.md	7	6	well_name	SN0006-03i	not_match_include_patterns
+SN0006-03i 井录井报告.md__p9	SN0006-03i 井录井报告.md	9	8	well_name	本井	not_match_include_patterns
+SN0006-03i 井录井报告.md__p30	SN0006-03i 井录井报告.md	30	29	well_name	附表 2. 录井资料统计表	not_match_include_patterns
+SN0006-03i 井录井报告.md__p32	SN0006-03i 井录井报告.md	32	31	well_name	附表 3	not_match_include_patterns
+SN0006-03i 井录井报告.md__p35	SN0006-03i 井录井报告.md	35	34	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-03i 井录井报告.md__p37	SN0006-03i 井录井报告.md	37	36	well_name	附表 5	not_match_include_patterns
+SN0006-03i 井录井报告.md__p39	SN0006-03i 井录井报告.md	39	38	well_name	附表 6	not_match_include_patterns
+SN0006-05 井录井报告.md__p2	SN0006-05 井录井报告.md	2	1	well_name	长庆油田分公司	not_match_include_patterns
+SN0006-05 井录井报告.md__p5	SN0006-05 井录井报告.md	5	4	well_name	李永忠	not_match_include_patterns
+SN0006-05 井录井报告.md__p8	SN0006-05 井录井报告.md	8	7	well_name	本井	not_match_include_patterns
+SN0006-05 井录井报告.md__p29	SN0006-05 井录井报告.md	29	28	well_name	附表 2. 录井资料统计表	not_match_include_patterns
+SN0006-05 井录井报告.md__p31	SN0006-05 井录井报告.md	31	30	well_name	附表 3	not_match_include_patterns
+SN0006-05 井录井报告.md__p35	SN0006-05 井录井报告.md	35	34	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-05 井录井报告.md__p37	SN0006-05 井录井报告.md	37	36	well_name	附表 5	not_match_include_patterns
+SN0006-05 井录井报告.md__p39	SN0006-05 井录井报告.md	39	38	well_name	附表 6	not_match_include_patterns
+SN0006-06 井录井报告.md__p9	SN0006-06 井录井报告.md	9	8	well_name	本井	not_match_include_patterns
+SN0006-06 井录井报告.md__p27	SN0006-06 井录井报告.md	27	26	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-06 井录井报告.md__p29	SN0006-06 井录井报告.md	29	28	well_name	附表 2. 录井资料统计表	not_match_include_patterns
+SN0006-06 井录井报告.md__p31	SN0006-06 井录井报告.md	31	30	well_name	中国石油天然气股份有限公司长庆油田分公司	not_match_include_patterns
+SN0006-06 井录井报告.md__p33	SN0006-06 井录井报告.md	33	32	well_name	附表 3	not_match_include_patterns
+SN0006-06 井录井报告.md__p37	SN0006-06 井录井报告.md	37	36	well_name	附表 5	not_match_include_patterns
+SN0006-06 井录井报告.md__p39	SN0006-06 井录井报告.md	39	38	well_name	附表 6	not_match_include_patterns
+SN0006-08 井录井报告.md__p6	SN0006-08 井录井报告.md	6	5	well_name	本井	not_match_include_patterns
+SN0006-09 井录井报告.md__p3	SN0006-09 井录井报告.md	3	2	well_name	SN0006-09井	not_match_include_patterns
+SN0006-09 井录井报告.md__p6	SN0006-09 井录井报告.md	6	5	well_name	本井	not_match_include_patterns
+SN0006-09 井录井报告.md__p19	SN0006-09 井录井报告.md	19	18	well_name	本井	not_match_include_patterns
+SN0008-09 井录井完井报告.md__p2	SN0008-09 井录井完井报告.md	2	1	well_name	SN0008-09井	not_match_include_patterns
+SN0008-09 井录井完井报告.md__p4	SN0008-09 井录井完井报告.md	4	3	well_name	SN0008-09井	not_match_include_patterns
+SN0008-09 井录井完井报告.md__p6	SN0008-09 井录井完井报告.md	6	5	well_name	井斜图	not_match_include_patterns
+SN0015-08 井录井完井报告.md__p2	SN0015-08 井录井完井报告.md	2	1	well_name	第井	excluded_text
+井一井录井完井报告.md__p1	井一井录井完井报告.md	1	0	well_name	井一井	not_match_include_patterns
+井二井录井完井报告.md__p1	井二井录井完井报告.md	1	0	well_name	井二井	not_match_include_patterns
+井二井录井完井报告.md__p2	井二井录井完井报告.md	2	1	well_name	井二井	not_match_include_patterns
+井二井录井完井报告.md__p19	井二井录井完井报告.md	19	18	well_name	井二井	not_match_include_patterns

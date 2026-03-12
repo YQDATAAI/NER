@@ -1,0 +1,9 @@
+accelerate>=0.28.0
+datasets>=2.18.0
+numpy>=1.24.0
+onnx>=1.15.0
+onnxruntime>=1.17.0
+pyyaml>=6.0.1
+seqeval>=1.2.2
+torch>=2.1.0
+transformers>=4.40.0

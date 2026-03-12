@@ -1,0 +1,11 @@
+{
+  "system_instruction": "你是一个严谨的地质与石油领域数据标注专家。你的任务是从文本中抽取特定的实体，并输出带有严格格式的JSON。",
+  "task_description": "请抽取以下六类实体：\n1. well_name (井名)\n2. block (区块)\n3. strat_unit (层位名称)\n4. lithology (主岩性)\n5. lithology_color (岩性颜色)\n6. lithology_texture (岩性结构描述)\n\n严格要求：\n- 必须输出纯JSON格式，不要包含任何额外的解释或Markdown代码块。\n- 输出格式为：{\"实体类别\": {\"实体原文\": [[起始索引, 结束索引]]}}。\n- 如果未找到任何实体，请输出 {}。",
+  "template": "{system_instruction}\n\n{task_description}\n\n### 样例参考 ###\n{few_shots_str}\n\n### 当前任务 ###\ntext: \"{input_text}\"\nlabel: ",
+  "generation_config": {
+    "max_new_tokens": 512,
+    "temperature": 0.0,
+    "top_p": 0.1,
+    "repetition_penalty": 1.1
+  }
+}

@@ -1,0 +1,5 @@
+well_name:
+  include_patterns:
+    - "^[A-Za-z]{1,6}\\d{1,6}(?:-\\d{1,6})?$"
+  exclude_texts:
+    - "第井"

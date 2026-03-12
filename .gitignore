@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+ner_macbert_trainer/output/
+ner_macbert_trainer/output_dual/
+
+**/checkpoints/
+**/saved_models/
+**/onnx_models/
+
+*.onnx
+*.safetensors
+*.pt
+*.pth
+*.bin
